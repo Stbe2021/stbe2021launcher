@@ -1,7 +1,8 @@
 body {
-  font-family: font-family; 'Roboto', sans-serif;
+  font-family: 'JetBrains Mono', monospace;
   margin: auto;
   max-width: 38rem;
   padding: 2rem;
-  text-align: center
+  text-align: center;
+  color: white;
 }
