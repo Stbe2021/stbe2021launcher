@@ -2,7 +2,7 @@
   "name": "stbe2021launcher",
   "productName": "stbe2021launcher",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "A launcher and install application for stbe2021 apps.",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
