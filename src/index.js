@@ -62,3 +62,5 @@ autoUpdater.on('update-downloaded', (event, releaseNotes, releaseName) => {
   })
 })
 }
+// ElectronDL URL window/url/options config
+electronDl.download(window, url, options)
