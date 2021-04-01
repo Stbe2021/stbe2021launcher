@@ -1,6 +1,6 @@
 {
   "name": "stbe2021launcher",
-  "productName": "stbe2021launcher",
+  "productName": "Stbe2021launcher",
   "version": "1.0.0",
   "description": "A launcher and installer application for Stbe2021 apps.",
   "main": "src/index.js",
