@@ -1,8 +1,8 @@
 {
-  "name": "Stbe2021 Launcher",
-  "productName": "Stbe2021launcher",
+  "name": "Stbe2021 Client",
+  "productName": "Stbe2021Client",
   "version": "1.0.0",
-  "description": "A launcher and installer application for Stbe2021 apps.",
+  "description": "A launcher for all Stbe2021 apps.",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -12,7 +12,7 @@
     "lint": "echo \"No linting configured\""
   },
   "keywords": [
-    "stbe2021launcher",
+    "stbe2021client",
     "launch",
     "stbe2021"
   ],
